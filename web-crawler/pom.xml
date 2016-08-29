@@ -12,6 +12,8 @@
     </parent>
 
     <artifactId>web-crawler</artifactId>
+    <version>${uac-crawler.version}</version>
+    <name>${project.artifactId}</name>
 
 
 </project>
